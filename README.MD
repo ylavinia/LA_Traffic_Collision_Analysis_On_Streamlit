@@ -4,6 +4,8 @@
 
 This project analyzes traffic collision data in Los Angeles from 2010-2019 using Python and presents the findings through an interactive web application built with Streamlit. The goal is to provide insights into the patterns and trends of traffic collisions in the city.
 
+Demo: https://latrafficcollisionanalysisonapp-bayzzt5ruixznperqbux6j.streamlit.app/
+
 ## Dataset
 
 The primary dataset used for this analysis is `Traffic_Collision_Data.csv`. This file likely contains detailed information about traffic collisions in Los Angeles, including location, time, involved parties, and other relevant factors.
